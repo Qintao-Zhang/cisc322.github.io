@@ -29,5 +29,5 @@ $(document).ready(function(){
       setTimeout(function(){
         $("#loading").removeClass("animated fadeOut");
         $("#loading").css("display","none");
-      },1000);
-  },2000);
+      },800);
+  },1450);
