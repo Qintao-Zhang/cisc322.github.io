@@ -225,11 +225,12 @@ body,html {
         margin:0px;
     }
     #middle {
-        width:100%;
+        width:90%;
         border-radius:0px;
-        height:80vh;
+        height:100px;
         text-align: center;
         background-size:cover;
+        line-height: 100px;
     }
     #tagline {
         width:90%;
