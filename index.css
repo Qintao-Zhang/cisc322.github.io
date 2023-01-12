@@ -227,8 +227,7 @@ body,html {
     #middle {
         width:100%;
         border-radius:0px;
-        height:80px;
-        line-height: 80px;
+        height:80vh;
         background-size:cover;
     }
     #tagline {
