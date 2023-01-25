@@ -96,7 +96,7 @@ body,html {
     padding:2% 10%;
 }
 #portfolio div h1 {
-    font-size:60px;
+    font-size:40px;
     background-image: linear-gradient(to left, #FF416C 0%, #FF4B2B 100%);
     -webkit-background-clip:text;
     background-clip:text;
